@@ -1,0 +1,22 @@
+body{
+    padding:30px;
+}
+#title{
+    font-family:segoe ui;
+    font-size:40px;
+    color:#F56A79;
+}
+#subtitle{
+    font-family:segoe ui semilight;
+    font-size:12px;
+    color:#F5CEC7;
+}
+li{
+    padding-bottom:20px;
+}
+#content{
+    padding:10px;
+    font-family:segoe ui semibold;
+    font-size:16px;
+    color:#E79796;
+}
